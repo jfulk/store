@@ -6,7 +6,7 @@
 /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #272727;
   font-family: Arial;
 }
 
@@ -14,7 +14,7 @@
 .navbar a {
   float: left;
   font-size: 16px;
-  color: white;
+  color: #01D712;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
