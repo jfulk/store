@@ -7,7 +7,9 @@
 		text-decoration: underline;
 		font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
 
-.banner-header {background-image: image(C:\Users\jfulk\Desktop\My_Portfolio\Github Sites\store\images\my-post.jpg);}
+.banner-header {
+  height: 300px;
+  width: 100%;}
 
 /* Navbar container */
 .navbar {
